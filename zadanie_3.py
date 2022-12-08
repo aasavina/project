@@ -13,5 +13,5 @@ def my_func(*elements):
     print(result)
 
 
-my_func(3, 6, 7)
+my_func(3, 6, 7,11)
 
